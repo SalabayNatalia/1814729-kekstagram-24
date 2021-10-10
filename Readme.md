@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Наталья Салабай](https://up.htmlacademy.ru/javascript/24/user/1814729).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Петрищак](https://htmlacademy.ru/profile/maksim_petrishchak).
 
 ---
 
